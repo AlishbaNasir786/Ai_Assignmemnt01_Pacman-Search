@@ -2,8 +2,8 @@
 Artificial Intelligence (AI2002) — Assignment 01
 Pacman Search Project
 ========================================================================
-Student Name: Alishba Nasir
-Roll Number:  i243176 (24I-3176)
+Student Name: Alishba Nasir | Muhammad Jibran
+Roll Number:  (24I-3176) | 24i-3134
 Course:       Artificial Intelligence (AI2002)
 Semester:     5th Semester
 
